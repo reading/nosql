@@ -1,0 +1,6 @@
+[submodule "couchdb"]
+	path = couchdb
+	url = git://github.com/apache/couchdb.git
+[submodule "redis"]
+	path = redis
+	url = git://github.com/antirez/redis.git
